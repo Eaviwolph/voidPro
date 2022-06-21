@@ -1,0 +1,4 @@
+../HelloWorld/pom.xml
+../HelloWorld/src/main/java/Main.java
+../HelloWorld/target/maven-archiver/pom.properties
+../HelloWorld/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
